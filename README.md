@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ishmeet Kaur
 - 👀 I’m interested in tech related projects
 - 🌱 I’m currently learning full stack web development
-- 📫 How to reach me
-   www.linkedin.com/in/ishmeet-kaur-31a623278
-- 😄 Pronouns: she/her
+
 
 
 <!---
