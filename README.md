@@ -1,3 +1,4 @@
+![logo](https://github.com/Ishmeetkaur36/Ishmeetkaur36/blob/main/a2e060a2dc4d6c50c1ac858d397b875e.jpg)
 <h1 align="center">Hi 👋, I'm Ishmeet Kaur</h1>
 <h3 align="center">Enthusiastic learner and programmer</h3>
 
