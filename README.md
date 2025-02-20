@@ -62,7 +62,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishmeetkaur36&show_icons=true&locale=en&theme=highcontrast" alt="ishmeetkaur36" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeetkaur36&" alt="ishmeetkaur36" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishmeetkaur36&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ishmeetkaur36" /></p>
 
 <!---
 Ishmeetkaur36/Ishmeetkaur36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
